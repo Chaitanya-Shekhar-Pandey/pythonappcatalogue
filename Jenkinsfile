@@ -7,13 +7,6 @@ pipeline {
     }
 
     stages {
-        stage('Checkout') {
-            steps {
-                // Pull source from the repo
-                git branch: "${BRANCH}", url: "${REPO}"
-            }
-        }
-
         stage('Install Dependencies') {
             steps {
                 // Assuming Python app with requirements.txt
