@@ -2,6 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: python-app
+  title: Python App
   annotations:
     github.com/project-slug: jk7testorg/pythonappcatalogue
     jenkins.io/job-full-name: backstage/backstagegittestpipeline
