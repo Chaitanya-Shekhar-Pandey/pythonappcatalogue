@@ -4,7 +4,7 @@ metadata:
   name: python-app
   title: Python App
   annotations:
-    github.com/project-slug: jk7testorg/pythonappcatalogue
+    github.com/project-slug: Chaitanya-Shekhar_Pandey/pythonappcatalogue
     jenkins.io/job-full-name: backstage/backstagegittestpipeline
 spec:
   type: other

@@ -2,8 +2,8 @@ pipeline {
     agent any
 
     environment {
-        REPO = 'https://github.com/jk7testorg/pythonappcatalogue.git'
-        BRANCH = 'master'
+        REPO = 'https://github.com/Chaitanya-Shekhar-Pandey/pythonappcatalogue.git'
+        BRANCH = 'main'
     }
 
     stages {
